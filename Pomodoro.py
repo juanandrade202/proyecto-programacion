@@ -1,3 +1,8 @@
+"""
+Nombre: Juan Francisco Andrade Lara
+Curso: Gr1
+Fecha: 31/07/2023
+"""
 import time
 import matplotlib.pyplot as plt
 from kivy.app import App
